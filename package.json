@@ -1,0 +1,23 @@
+{
+  "name": "cluster-words",
+  "version": "1.0.0",
+  "description": "Cluster similar appearing words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/cluster-words.git"
+  },
+  "keywords": [
+    "clustering",
+    "data"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/cluster-words/issues"
+  },
+  "homepage": "https://github.com/finnp/cluster-words"
+}
